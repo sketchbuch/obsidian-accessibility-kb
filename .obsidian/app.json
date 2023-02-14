@@ -1,0 +1,11 @@
+{
+  "showFrontmatter": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "livePreview": false,
+  "attachmentFolderPath": "Dart/Information"
+}
