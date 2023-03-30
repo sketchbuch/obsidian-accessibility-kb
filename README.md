@@ -2,9 +2,11 @@
 
 An information resource to store information collected about Accessibility (A11y), WCAG, ARIA, and the European Accessibiity Act.
 
+![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-accessibility-kb/main/__resources__/images/preview.gif)
+
 ---
 
-Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian Vault and is best viewed with [Obsidian](https://obsidian.md/) as MediaWiki style links are used throughout which are not recognised by Github as it is non-standard markdown.
+Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian Vault and is best viewed with [Obsidian](https://obsidian.md/) as MediaWiki style links are used throughout which are not recognised by GitHub as it is non-standard markdown.
 
 ## Obsidian Settings
 
