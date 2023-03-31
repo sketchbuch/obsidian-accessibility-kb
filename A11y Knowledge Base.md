@@ -6,7 +6,7 @@ Information collected about Accessibility.
 
 ## Aria
 
--  [[Aria]]
+- [[Aria]]
 - [[Aria Label]]
 
 ## Code
@@ -50,4 +50,4 @@ Information collected about Accessibility.
 
 ## Webinars
 
-- [[AbilityNet Webinars]]
+- [AbilityNet Webinars](AbilityNet%20Webinars.md)

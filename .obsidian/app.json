@@ -7,5 +7,7 @@
     "en-GB"
   ],
   "livePreview": false,
-  "attachmentFolderPath": "Dart/Information"
+  "attachmentFolderPath": "Dart/Information",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
