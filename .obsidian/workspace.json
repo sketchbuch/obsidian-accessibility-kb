@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cadc9a962510019",
+        "id": "efeae310d574a41a",
         "type": "tabs",
         "children": [
           {
-            "id": "4228468c83a59d7f",
+            "id": "83038efdf6caf66a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "242623e01b420f54",
+            "id": "5156a01f3a47f475",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,9 +152,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4228468c83a59d7f",
+  "active": "5156a01f3a47f475",
   "lastOpenFiles": [
     "A11y Knowledge Base.md",
+    "HTML/Links (A11y).md",
     "Aria/Aria.md",
     "Misc/Resources (A11y).md",
     "__resources__/images/preview.gif",
@@ -183,7 +184,6 @@
     "__resources__/templates/Subject.md",
     "Accessibility/Accessibility.md",
     "React/React.md",
-    "GraphQL/GraphQL.md",
-    "Accessibility/WCAG/Compliance levels.md"
+    "GraphQL/GraphQL.md"
   ]
 }
