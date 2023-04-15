@@ -4,5 +4,6 @@
   "baseFontSize": 15,
   "monospaceFontFamily": "Source Code Pro",
   "interfaceFontFamily": "Noto Sans",
-  "textFontFamily": "Noto Sans"
+  "textFontFamily": "Noto Sans",
+  "cssTheme": ""
 }
