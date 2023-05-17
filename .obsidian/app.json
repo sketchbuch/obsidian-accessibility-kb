@@ -8,6 +8,6 @@
   ],
   "livePreview": false,
   "attachmentFolderPath": "Dart/Information",
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }

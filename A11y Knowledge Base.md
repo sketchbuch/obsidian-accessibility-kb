@@ -17,6 +17,8 @@ Information collected about Accessibility.
 
 ## Glossary
 
+- [[Glossary]]
+
 ## HTML
 
 - [[Alt Attribute]]
@@ -30,6 +32,7 @@ Information collected about Accessibility.
 
 - [[ADA]]
 - [[Assistive Technologies]]
+- [[Corporations]]
 - [[EAA]]
 - [[Education]]
 - [[Impact Assessment]]
