@@ -34,3 +34,27 @@ Information about lawsuits, and patterns in filings.
 - [2021 Website Accessibility Lawsuit Recap](https://adasoutheast.org/2021-website-accessibility-lawsuit-recap/)
 - [Most Common Types of Digital Accessibility Lawsuits](https://adasitecompliance.com/most-common-types-digital-accessibility-lawsuits/)
 - [Record Number of Lawsuits Filed Over Accessibility for People with Disabilities](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/record-number-of-lawsuits-filed-over-accessibility-for-people-with-disabilities.aspx)
+
+## Statistics
+
+Websites listing overall lawsuit data and results:
+
+### 2023
+
+- [ADA Accessibility Lawsuit Tracker Final Numbers in Digital Lawsuits for 2023](https://info.usablenet.com/ada-website-compliance-lawsuit-tracker)
+
+### 2022
+
+- [2022 Website Accessibility Lawsuit Recap](https://www.accessibility.com/complete-report-2022-website-accessibility-lawsuits)
+	-   **2,387 website accessibility lawsuits** were filed in 2022.
+	-   **Consumer Goods, Services & Retail** companies were targeted the most.
+	-   **New York** had more than 69% of all the cases filed nationwide.
+	-   **Nearly 67%** of all website accessibility lawsuits were filed by five law firms out of 
+	  New York and California.
+	-   **143% increase** in companies that received **multiple lawsuits** year-over-year
+- [A Recap of 2022 Website Accessibility Lawsuits](https://adasitecompliance.com/recap-2022-website-accessibility-lawsuits/)
+- [Key Takeaways from UsableNet’s 2022 Year-End Digital Accessibility Lawsuit Report](https://www.3playmedia.com/blog/key-takeaways-usablenets-ada-web-app-report/)
+
+### 2020
+
+- [A RECORD-BREAKING YEAR FOR ADA DIGITAL ACCESSIBILITY LAWSUITS](https://blog.usablenet.com/a-record-breaking-year-for-ada-digital-accessibility-lawsuits)

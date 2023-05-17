@@ -14,6 +14,11 @@ Information about the [European Accessibility Act](https://ec.europa.eu/social/m
 
 [Source](https://abilitynet.org.uk/news-blogs/when-will-european-accessibility-act-take-effect)
 
+## What are countries doing
+
+- [Italian laws on the accessibility of websites change with the AgID circular](https://www.gamingtechlaw.com/2023/01/italian-laws-accessibility-websites-circular/)
+  > Changes made by Italy in Nov 2022 require a accessibility statement and periodic updates on what companies are doing, will do, and have done for a11y.
+
 ## Links
 
 - [EAA FAQ](https://www.siteimprove.com/blog/the-european-accessibility-act-faq/)

@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d2fd116ac753a492",
+        "id": "183d21683fee4554",
         "type": "tabs",
         "children": [
           {
-            "id": "217427d42028cacb",
+            "id": "f2eb6516863e0eb7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "Misc/Overlay Sidebars.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -63,9 +65,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "29722e9bba9073b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/Overlay Sidebars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/Overlay Sidebars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/Overlay Sidebars.md"
+              }
             }
           },
           {
@@ -148,24 +161,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "217427d42028cacb",
+  "active": "5156a01f3a47f475",
   "lastOpenFiles": [
-    "A11y Knowledge Base.md",
+    "Misc/ADA.md",
+    "Misc/EAA.md",
     "Misc/Overlay Sidebars.md",
+    "Misc/Assistive Technologies.md",
     "Misc/Impact Assessment.md",
+    "Aria/Aria Label.md",
+    "A11y Knowledge Base.md",
+    "Aria/Aria.md",
     "HTML/Labels.md",
     "Misc/Resources (A11y).md",
-    "Misc/Assistive Technologies.md",
     "Code/Accessible Carousels.md",
-    "Aria/Aria.md",
     "HTML/Checkboxes & Radios.md",
     "HTML/Links (A11y).md",
     "Code/Accessible Cards.md",
-    "Aria/Aria Label.md",
-    "Misc/ADA.md",
     "__resources__/images/preview.gif",
     "WCAG/WCAG.md",
-    "Misc/EAA.md",
     "HTML/Alt Attribute.md",
     "Webinars/AbilityNet Webinars.md",
     "__resources__/images/preview2.gif",
