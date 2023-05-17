@@ -15,6 +15,8 @@ Information collected about Accessibility.
 - [[Accessible Carousels]]
 - [[Screen Reader Text]]
 
+## Glossary
+
 ## HTML
 
 - [[Alt Attribute]]

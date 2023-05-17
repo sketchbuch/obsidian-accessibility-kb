@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Overlay Sidebars.md",
-                "mode": "preview",
+                "file": "Code/Accessible Cards.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Overlay Sidebars.md",
+                "file": "Code/Accessible Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Overlay Sidebars.md",
+                "file": "Code/Accessible Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Overlay Sidebars.md"
+                "file": "Code/Accessible Cards.md"
               }
             }
           },
@@ -161,15 +161,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5156a01f3a47f475",
+  "active": "9afad77a7b084929",
   "lastOpenFiles": [
+    "Glossary/Glossary.md",
+    "A11y Knowledge Base.md",
+    "Glossary/Untitled",
+    "README.md",
+    "Glossary",
+    "Misc/Overlay Sidebars.md",
     "Misc/ADA.md",
     "Misc/EAA.md",
-    "Misc/Overlay Sidebars.md",
     "Misc/Assistive Technologies.md",
     "Misc/Impact Assessment.md",
     "Aria/Aria Label.md",
-    "A11y Knowledge Base.md",
     "Aria/Aria.md",
     "HTML/Labels.md",
     "Misc/Resources (A11y).md",
@@ -186,13 +190,11 @@
     "__resources__/images/Screencast from 30-03-23 21:05:31.webm",
     "WCAG/POUR.md",
     "Code/Screen Reader Text.md",
-    "README.md",
     "Webinars",
     "Misc/WAD.md",
     "Screen Readers/Orca.md",
     "Screen Readers/Voice Over.md",
     "__resources__/templates/Note.md",
-    "__resources__/templates/Subject.md",
-    "Accessibility/Accessibility.md"
+    "__resources__/templates/Subject.md"
   ]
 }
