@@ -17,6 +17,6 @@ An element is said to be actually disabled if it is one of the following:
 - a fieldset element that is a disabled fieldset  
 - a form-associated custom element that is disabled
 
-[Source]([https://github.com/facebook/react/issues/8977](https://github.com/facebook/react/issues/8977))
+[Source](https://html.spec.whatwg.org/multipage/semantics-other.html#disabled-elements)
 
 The disabled attribute does nothing on other elements (like div).
