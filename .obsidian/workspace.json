@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/EAA.md",
-                "mode": "source",
+                "file": "Misc/Corporations.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/EAA.md",
+                "file": "Misc/Corporations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/EAA.md",
+                "file": "Misc/Corporations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/EAA.md"
+                "file": "Misc/Corporations.md"
               }
             }
           },
@@ -163,9 +163,10 @@
   },
   "active": "cb6232c783bf1df6",
   "lastOpenFiles": [
+    "A11y Knowledge Base.md",
+    "Misc/EAA.md",
     "Misc/WAD.md",
     "Misc/W3C.md",
-    "Misc/EAA.md",
     "Misc/Impact Assessment.md",
     "Misc/EN 301 549.md",
     "Misc/Testing (A11y).md",
@@ -175,7 +176,6 @@
     "Code/Accessible Cards.md",
     "WCAG/Compliance levels.md",
     "WCAG/POUR.md",
-    "A11y Knowledge Base.md",
     "Aria/Roles",
     "Aria/Attributes/Aria Label.md",
     "Aria/Attributes",

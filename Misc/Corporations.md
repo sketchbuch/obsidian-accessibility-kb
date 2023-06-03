@@ -13,3 +13,6 @@ Information collected about businesses/corporations and what they are doing for 
 
 - [How Microsoft bakes accessibility into everything it touches](https://www.fastcompany.com/90850366/microsoft-prioritizes-accessibility)
   > From reinventing its products for people with disabilities to arming policymakers with better data, the tech giant is mainstreaming accessibility.
+  
+- [Key Note Speech at Axe-Con 2022](https://www.deque.com/axe-con/sessions/accessibility-at-microsoft/)
+	By Jenny Lay-Flurrie Microsoft, Chief Accessibility Officer
