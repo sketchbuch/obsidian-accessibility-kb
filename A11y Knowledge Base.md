@@ -7,7 +7,12 @@ Information collected about Accessibility.
 ## Aria
 
 - [[Aria]]
+
+Attributes:
 - [[Aria Label]]
+
+Roles:
+- [[Tooltip Role]]
 
 ## Code
 

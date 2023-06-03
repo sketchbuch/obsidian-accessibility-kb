@@ -2,6 +2,9 @@
 
 Information about the [European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en) (EAA). This act applies to private sector websites and apps in much the same way as its predecessor, the [[WAD]] applied to public sector websites and apps.
 
+Other names:
+- Directive (EU) 2019/882
+
 ---
 
 ## Deadlines
@@ -24,3 +27,4 @@ Information about the [European Accessibility Act](https://ec.europa.eu/social/m
 - [EAA FAQ](https://www.siteimprove.com/blog/the-european-accessibility-act-faq/)
 - [EU Commission Web Accessibility Policy](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility)
 - [What does the European Accessibility Act Mean for Global Publishing?](https://inclusivepublishing.org/blog/what-does-the-european-accessibility-act-mean-for-global-publishing/)
+- [EU Web Accessibility Laws: EN 301 549 and EAA](https://www.whoisaccessible.com/guidelines/en-301-549/)

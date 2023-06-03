@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "183d21683fee4554",
+        "id": "e5c3578b4941fa90",
         "type": "tabs",
         "children": [
           {
-            "id": "f2eb6516863e0eb7",
+            "id": "cb6232c783bf1df6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Misc/EAA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/EAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/EAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/EAA.md"
+              }
             }
           },
           {
@@ -155,40 +161,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f2eb6516863e0eb7",
+  "active": "cb6232c783bf1df6",
   "lastOpenFiles": [
-    "A11y Knowledge Base.md",
+    "Misc/WAD.md",
+    "Misc/W3C.md",
+    "Misc/EAA.md",
+    "Misc/Impact Assessment.md",
+    "Misc/EN 301 549.md",
+    "Misc/Testing (A11y).md",
+    "Aria/Roles/Tooltip Role.md",
     "Misc/Corporations.md",
-    "README.md",
-    "Glossary/Glossary.md",
+    "Code/Accessible Carousels.md",
     "Code/Accessible Cards.md",
+    "WCAG/Compliance levels.md",
+    "WCAG/POUR.md",
+    "A11y Knowledge Base.md",
+    "Aria/Roles",
+    "Aria/Attributes/Aria Label.md",
+    "Aria/Attributes",
+    "Aria/Aria.md",
+    "HTML/Labels.md",
+    "HTML/Links (A11y).md",
+    "Glossary/Glossary.md",
+    "Code/Screen Reader Text.md",
+    "README.md",
     "Glossary/Untitled",
     "Glossary",
     "Misc/Overlay Sidebars.md",
     "Misc/ADA.md",
-    "Misc/EAA.md",
     "Misc/Assistive Technologies.md",
-    "Misc/Impact Assessment.md",
-    "Aria/Aria Label.md",
-    "Aria/Aria.md",
-    "HTML/Labels.md",
     "Misc/Resources (A11y).md",
-    "Code/Accessible Carousels.md",
     "HTML/Checkboxes & Radios.md",
-    "HTML/Links (A11y).md",
     "__resources__/images/preview.gif",
     "WCAG/WCAG.md",
-    "HTML/Alt Attribute.md",
-    "Webinars/AbilityNet Webinars.md",
     "__resources__/images/preview2.gif",
     "__resources__/images/preview.webm",
     "__resources__/images/Screencast from 30-03-23 21:05:31.webm",
-    "WCAG/POUR.md",
-    "Code/Screen Reader Text.md",
-    "Webinars",
-    "Misc/WAD.md",
-    "Screen Readers/Orca.md",
-    "Screen Readers/Voice Over.md",
-    "__resources__/templates/Note.md"
+    "Webinars"
   ]
 }
