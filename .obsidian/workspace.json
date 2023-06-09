@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Glossary.md",
+                "file": "Aria/Accessibility Tree.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -24,8 +24,13 @@
             "id": "942a9cecac351776",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Glossary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Glossary.md",
+                "file": "Aria/Accessibility Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Glossary.md",
+                "file": "Aria/Accessibility Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Glossary.md"
+                "file": "Aria/Accessibility Tree.md"
               }
             }
           },
@@ -180,14 +185,14 @@
   },
   "active": "0a4c54953cffc6ee",
   "lastOpenFiles": [
-    "Glossary/Glossary.md",
     "A11y Knowledge Base.md",
+    "Glossary/Glossary.md",
+    "Aria/Accessibility Tree.md",
+    "Aria/ARIA.md",
     "WCAG/WCAG.md",
     "Misc/WAD.md",
-    "Aria/Aria.md",
     "Misc/EAA.md",
     "Misc/ADA.md",
-    "Aria/Accessibility Tree.md",
     "HTML/HTML.md",
     "Code/Accessible Carousels.md",
     "Code/Accessible Cards.md",

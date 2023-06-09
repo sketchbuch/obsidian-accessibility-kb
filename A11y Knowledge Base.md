@@ -6,7 +6,7 @@ Information collected about Accessibility.
 
 ## Aria
 
-- [[Aria]]
+- [[ARIA]]
 
 Attributes:
 - [[Aria Label]]

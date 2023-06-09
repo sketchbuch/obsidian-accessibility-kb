@@ -1,6 +1,6 @@
-# Aria
+# ARIA
 
-General information about Aria that doesn't fit elsewhere.
+General information about ARIA that doesn't fit elsewhere.
 
 ---
 
