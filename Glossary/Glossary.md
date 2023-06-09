@@ -8,19 +8,19 @@ A glossary of accessibility terms.
 ---
 
 ## A
-**A11y:**
+**A11y**
 An abbreviation of Accessibility in the same way that I18n is an abbreviation for Internationalisation and L10n for Localisation. The "A" and the "y" are the first and last letters of the word "Accessibility" and the 11 is the number of characters in between.
 
-**Accessibility Tree:**
+**Accessibility Tree**
 The [[Accessibility Tree]] is a structure made of nodes, similar to the DOM tree and represents all the information in a page that is communicated to assistive technologies.
 
-**ADA:**
+**ADA**
 The Americans with Disabilities Act ([[ADA]]) tries to stop discrimination against people with disabilities in various areas, including: employment, transportation, public accommodations, communications and apps/websites. The web related requirements can be thought of as a US version of the [[EAA]].
 
-**APG:**
+**APG**
 Authoring Practices Guide ([APG](https://www.w3.org/WAI/ARIA/apg/)) website displaying patterns for different roles and documentation on how best to use ARIA.
 
-**ARIA:**
+**ARIA**
 Accessible Rich Internet Applications ([[ARIA]]) is a series of roles and properties to communicate information about a web page to accessibility APIs.
 
 ---
