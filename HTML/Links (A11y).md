@@ -4,7 +4,7 @@ Information about links.
 
 ---
 
-## SC 2.4.4 Link Purpose (In Context)
+## Examples of Success Criterion 2.4.4
 
 ### A link contains text that gives a description of the information at that URI
 

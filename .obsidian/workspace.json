@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c3578b4941fa90",
+        "id": "bbdf2597b72c2a88",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6232c783bf1df6",
+            "id": "c238c0403672a706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Corporations.md",
+                "file": "Glossary/Glossary.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1e8849b3262f65aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aria/Aria.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Corporations.md",
+                "file": "Glossary/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Corporations.md",
+                "file": "Glossary/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Corporations.md"
+                "file": "Glossary/Glossary.md"
               }
             }
           },
@@ -143,6 +156,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe2f2d8a40e73fcf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -158,42 +179,43 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb6232c783bf1df6",
+  "active": "c238c0403672a706",
   "lastOpenFiles": [
-    "A11y Knowledge Base.md",
-    "Misc/EAA.md",
+    "WCAG/WCAG.md",
+    "Glossary/Glossary.md",
     "Misc/WAD.md",
-    "Misc/W3C.md",
-    "Misc/Impact Assessment.md",
-    "Misc/EN 301 549.md",
-    "Misc/Testing (A11y).md",
-    "Aria/Roles/Tooltip Role.md",
-    "Misc/Corporations.md",
+    "Aria/Aria.md",
+    "Misc/EAA.md",
+    "Misc/ADA.md",
+    "Aria/Accessibility Tree.md",
+    "HTML/HTML.md",
+    "A11y Knowledge Base.md",
     "Code/Accessible Carousels.md",
     "Code/Accessible Cards.md",
-    "WCAG/Compliance levels.md",
+    "Misc/Assistive Technologies.md",
+    "Webinars/AbilityNet Webinars.md",
     "WCAG/POUR.md",
-    "Aria/Roles",
-    "Aria/Attributes/Aria Label.md",
-    "Aria/Attributes",
-    "Aria/Aria.md",
-    "HTML/Labels.md",
+    "WCAG/Compliance levels.md",
+    "HTML/Alt Attribute.md",
+    "HTML/Checkboxes & Radios.md",
     "HTML/Links (A11y).md",
-    "Glossary/Glossary.md",
+    "HTML/Labels.md",
+    "HTML/Images.md",
+    "HTML/Disabled Attribute.md",
     "Code/Screen Reader Text.md",
-    "README.md",
+    "Aria/Attributes/Aria Label.md",
+    "Aria/Roles/Tooltip Role.md",
+    "Misc/Corporations.md",
+    "Misc/W3C.md",
+    "Aria/Roles",
+    "Aria/Attributes",
     "Glossary/Untitled",
     "Glossary",
-    "Misc/Overlay Sidebars.md",
-    "Misc/ADA.md",
-    "Misc/Assistive Technologies.md",
-    "Misc/Resources (A11y).md",
-    "HTML/Checkboxes & Radios.md",
     "__resources__/images/preview.gif",
-    "WCAG/WCAG.md",
     "__resources__/images/preview2.gif",
     "__resources__/images/preview.webm",
     "__resources__/images/Screencast from 30-03-23 21:05:31.webm",

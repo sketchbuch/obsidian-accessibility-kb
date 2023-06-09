@@ -29,6 +29,7 @@ Roles:
 - [[Alt Attribute]]
 - [[Checkboxes & Radios]]
 - [[Disabled Attribute]]
+- [[HTML]]
 - [[Images]]
 - [[Labels]]
 - [[Links (A11y)]]
