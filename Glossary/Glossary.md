@@ -2,7 +2,7 @@
 
 A glossary of accessibility terms. 
 
-[W](#w) | [[#A|A]] | [[#D|D]] | [[#E|E]] | [[#P|P]] | [[#W|W]]
+[A](#a) | [D](#d) | [E](#e) | [P](#p) | [W](#w)
 
 
 ---
