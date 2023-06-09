@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c238c0403672a706",
+            "id": "0a4c54953cffc6ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Glossary/Glossary.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1e8849b3262f65aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aria/Aria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -183,17 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c238c0403672a706",
+  "active": "0a4c54953cffc6ee",
   "lastOpenFiles": [
-    "WCAG/WCAG.md",
+    "A11y Knowledge Base.md",
     "Glossary/Glossary.md",
+    "WCAG/WCAG.md",
     "Misc/WAD.md",
     "Aria/Aria.md",
     "Misc/EAA.md",
     "Misc/ADA.md",
     "Aria/Accessibility Tree.md",
     "HTML/HTML.md",
-    "A11y Knowledge Base.md",
     "Code/Accessible Carousels.md",
     "Code/Accessible Cards.md",
     "Misc/Assistive Technologies.md",
