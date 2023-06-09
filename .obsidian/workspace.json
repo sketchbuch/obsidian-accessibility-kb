@@ -14,10 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Glossary/Glossary.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "942a9cecac351776",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -172,8 +180,8 @@
   },
   "active": "0a4c54953cffc6ee",
   "lastOpenFiles": [
-    "A11y Knowledge Base.md",
     "Glossary/Glossary.md",
+    "A11y Knowledge Base.md",
     "WCAG/WCAG.md",
     "Misc/WAD.md",
     "Aria/Aria.md",
