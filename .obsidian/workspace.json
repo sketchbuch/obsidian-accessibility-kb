@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbdf2597b72c2a88",
+        "id": "bca5542084f6cf87",
         "type": "tabs",
         "children": [
           {
-            "id": "0a4c54953cffc6ee",
+            "id": "77ac10029592dcfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aria/Accessibility Tree.md",
+                "file": "A11y Knowledge Base.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "942a9cecac351776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Glossary.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aria/Accessibility Tree.md",
+                "file": "A11y Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aria/Accessibility Tree.md",
+                "file": "A11y Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aria/Accessibility Tree.md"
+                "file": "A11y Knowledge Base.md"
               }
             }
           },
@@ -179,13 +166,14 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "0a4c54953cffc6ee",
+  "active": "77ac10029592dcfe",
   "lastOpenFiles": [
     "A11y Knowledge Base.md",
+    "README.md",
     "Glossary/Glossary.md",
     "Aria/Accessibility Tree.md",
     "Aria/ARIA.md",
@@ -210,7 +198,6 @@
     "Aria/Attributes/Aria Label.md",
     "Aria/Roles/Tooltip Role.md",
     "Misc/Corporations.md",
-    "Misc/W3C.md",
     "Aria/Roles",
     "Aria/Attributes",
     "Glossary/Untitled",
