@@ -8,6 +8,8 @@ General information about ARIA that doesn't fit elsewhere.
 
 - [Aria roles and properties not available in HTML5](https://www.tpgi.com/aria-in-html-there-goes-the-neighborhood/#html5na)
   > ARIA roles and properties not considered to be available natively in HTML5. It is clear that many roles and properties provided by ARIA which can be used to convey information to users are not available in HTML5.
+- [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/#no_aria_better_bad_aria)
+  > ... Incorrect ARIA misrepresents visual experiences, with potentially devastating effects on their corresponding non-visual experiences. ...
 
 ## Roles and patterns
 
