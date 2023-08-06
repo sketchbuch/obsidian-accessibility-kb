@@ -19,6 +19,12 @@ Other names:
 
 ## What are countries doing
 
+### Germany
+
+- [European Accessibility Act transposition in Germany – an overview](https://www.taylorwessing.com/en/interface/2022/the-european-accessibility-act/european-accessibility-act-transposition-in-germany-an-overview)
+
+### Italy
+
 - [Italian laws on the accessibility of websites change with the AgID circular](https://www.gamingtechlaw.com/2023/01/italian-laws-accessibility-websites-circular/)
   > Changes made by Italy in Nov 2022 require a accessibility statement and periodic updates on what companies are doing, will do, and have done for a11y.
 

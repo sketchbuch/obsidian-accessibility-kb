@@ -20,6 +20,10 @@ Roles:
 - [[Accessible Carousels]]
 - [[Screen Reader Text]]
 
+## Development
+
+- [[Unit Testing]]
+
 ## Glossary
 
 - [[Glossary]]
@@ -52,6 +56,11 @@ Roles:
 
 - [[Orca]]
 - [[Voice Over]] 
+
+## Subscriptions
+
+- [[Feeds]]
+- [[Newsletters]]
 
 ## WCAG
 
