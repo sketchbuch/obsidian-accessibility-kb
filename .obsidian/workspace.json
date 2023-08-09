@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "183d21683fee4554",
+        "id": "847363334eaf1195",
         "type": "tabs",
         "children": [
           {
-            "id": "f2eb6516863e0eb7",
+            "id": "aa3195c88d27f774",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "A11y Knowledge Base.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A11y Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A11y Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A11y Knowledge Base.md"
+              }
             }
           },
           {
@@ -137,6 +143,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe2f2d8a40e73fcf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -152,43 +166,48 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "f2eb6516863e0eb7",
+  "active": "aa3195c88d27f774",
   "lastOpenFiles": [
+    "Code/Screen Reader Text.md",
+    "Code/Accessible Carousels.md",
+    "Code/Accessible Cards.md",
+    "Development/Unit Testing.md",
+    "Subscriptions/Feeds.md",
+    "Development",
+    "Subscriptions/Newsletters.md",
+    "HTML/Checkboxes & Radios.md",
     "A11y Knowledge Base.md",
     "Misc/Corporations.md",
-    "README.md",
+    "Subscriptions",
+    "Webinars/AbilityNet Webinars.md",
+    "WCAG/WCAG.md",
+    "Misc/EAA.md",
     "Glossary/Glossary.md",
-    "Code/Accessible Cards.md",
+    "Aria/ARIA.md",
+    "README.md",
+    "Aria/Accessibility Tree.md",
+    "Misc/WAD.md",
+    "Misc/ADA.md",
+    "HTML/HTML.md",
+    "Misc/Assistive Technologies.md",
+    "WCAG/POUR.md",
+    "WCAG/Compliance levels.md",
+    "HTML/Alt Attribute.md",
+    "HTML/Links (A11y).md",
+    "HTML/Labels.md",
+    "HTML/Images.md",
+    "Aria/Roles",
+    "Aria/Attributes",
     "Glossary/Untitled",
     "Glossary",
-    "Misc/Overlay Sidebars.md",
-    "Misc/ADA.md",
-    "Misc/EAA.md",
-    "Misc/Assistive Technologies.md",
-    "Misc/Impact Assessment.md",
-    "Aria/Aria Label.md",
-    "Aria/Aria.md",
-    "HTML/Labels.md",
-    "Misc/Resources (A11y).md",
-    "Code/Accessible Carousels.md",
-    "HTML/Checkboxes & Radios.md",
-    "HTML/Links (A11y).md",
     "__resources__/images/preview.gif",
-    "WCAG/WCAG.md",
-    "HTML/Alt Attribute.md",
-    "Webinars/AbilityNet Webinars.md",
     "__resources__/images/preview2.gif",
     "__resources__/images/preview.webm",
     "__resources__/images/Screencast from 30-03-23 21:05:31.webm",
-    "WCAG/POUR.md",
-    "Code/Screen Reader Text.md",
-    "Webinars",
-    "Misc/WAD.md",
-    "Screen Readers/Orca.md",
-    "Screen Readers/Voice Over.md",
-    "__resources__/templates/Note.md"
+    "Webinars"
   ]
 }

@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "homepage"
+  "homepage",
+  "table-editor-obsidian",
+  "obsidian-plugin-toc"
 ]
