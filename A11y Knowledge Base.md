@@ -52,22 +52,27 @@ Roles:
 - [[W3C]]
 - [[WAD]]
 
+## Online Resources
+
+- [[AbilityNet Webinars]]
+- [[Captions & Subtitles]]
+- [[Feeds]]
+- [[Newsletters]]
+
 ## Screen Readers
 
+- [[JAWS]]
+- [[Narrator]]
+- [[NVDA]]
 - [[Orca]]
 - [[Voice Over]] 
 
-## Subscriptions
+## Technology
 
-- [[Feeds]]
-- [[Newsletters]]
+- [[Devices]]
 
 ## WCAG
 
 - [[Compliance levels]]
 - [[POUR]]
 - [[WCAG]]
-
-## Webinars
-
-- [AbilityNet Webinars](AbilityNet%20Webinars.md)

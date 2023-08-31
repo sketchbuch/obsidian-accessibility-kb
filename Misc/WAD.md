@@ -14,3 +14,5 @@ As of 2022, there is not a single public sector website or app in Germany that i
 
 - [EN 301 549 V3.2.1 (2021-03)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
 - [EU Web Accessibility Laws: EN 301 549 and EAA](https://www.whoisaccessible.com/guidelines/en-301-549/)
+- [Web Accessibility Directive — Standards and harmonisation](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility-directive-standards-and-harmonisation)
+  > EU legislation, technical standards and W3C international best practice on web accessibility.

@@ -2,7 +2,7 @@
 
 A glossary of accessibility terms. 
 
-[A](#a) | [D](#d) | [E](#e) | [P](#p) | [W](#w)
+[A](#a) | [D](#d) | [E](#e) | [J](#j) | [N](#n) | [O](#o) | [P](#p) | [V](#v)| [W](#w)
 
 
 ---
@@ -39,10 +39,41 @@ The European Accessibility Act ([[EAA]]) is a directive that is designed to mak
 
 ---
 
+## J
+
+**JAWS**
+Job Access With Speech ([[JAWS]]) is a screen reader for windows.
+
+---
+
+## N
+
+**Narrator**
+[[Narrator]] is a screen reader that comes as standard for windows.
+
+**NVDA**
+Non-visual Desktop Access ([[NVDA]]) is a screen reader for windows.
+
+---
+
+## O
+
+**Orca**
+[[Orca]] is a screen reader for Linux.
+
+---
+
 ## P
 
 **POUR**
 The [[POUR]] system is used to group [[WCAG]] compliance criteria in to 4 principle types that represent how accessible content must be: Perceivable, Operable, Understandable, and Robust.
+
+---
+
+## V
+
+**Voice Over**
+[[Voice Over]] is a screen reader that comes as standard for Mac OS.
 
 ---
 

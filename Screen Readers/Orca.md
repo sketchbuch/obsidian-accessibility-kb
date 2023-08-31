@@ -1,6 +1,6 @@
 # Orca
 
-Information about [Orca](https://help.gnome.org/users/orca/stable/introduction.html.en), a Screen Reader for [[Linux]].
+Information about [Orca](https://help.gnome.org/users/orca/stable/introduction.html.en), a Screen Reader for Linux.
 
 ---
 

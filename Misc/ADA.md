@@ -14,7 +14,12 @@ Information about lawsuits, and patterns in filings.
 
 - [10 Big Companies Sued Over Website Accessibility](https://www.levelaccess.com/blog/title-iii-lawsuits-10-big-companies-sued-over-website-accessibility)
 
+- [Dismissal of ADA Website Tester's Lawsuit Affirmed](https://www.nar.realtor/legal-case-summaries/dismissal-of-ada-website-testers-lawsuit-affirmed)
+  > Suit dismissed because Tester could not prove concrete injury or harm to himself as he was just testing the website and not using it.
+
 - [E-commerce Targeted Multiple times by Ada Web Accessibility Lawsuits](https://blog.usablenet.com/retailers-targeted-multiple-times-by-ada-web-accessibility-lawsuits)
+
+- [Five years of ADA web and app lawsuits - key observations and trends](https://blog.usablenet.com/five-years-of-ada-web-and-app-lawsuits-key-observations-and-trends)
 
 - [Largest Web Accessibility Lawsuits](https://www.whoisaccessible.com/guidelines/largest-web-accessibility-lawsuits/)
 
@@ -31,7 +36,7 @@ Information about lawsuits, and patterns in filings.
 
 ## Links
 
-- [2021 Website Accessibility Lawsuit Recap](https://adasoutheast.org/2021-website-accessibility-lawsuit-recap/)
+- [ADA Accessibility Lawsuit Tracker](https://info.usablenet.com/ada-website-compliance-lawsuit-tracker)
 - [Most Common Types of Digital Accessibility Lawsuits](https://adasitecompliance.com/most-common-types-digital-accessibility-lawsuits/)
 - [Record Number of Lawsuits Filed Over Accessibility for People with Disabilities](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/record-number-of-lawsuits-filed-over-accessibility-for-people-with-disabilities.aspx)
 
@@ -54,6 +59,10 @@ Websites listing overall lawsuit data and results:
 	-   **143% increase** in companies that received **multiple lawsuits** year-over-year
 - [A Recap of 2022 Website Accessibility Lawsuits](https://adasitecompliance.com/recap-2022-website-accessibility-lawsuits/)
 - [Key Takeaways from UsableNet’s 2022 Year-End Digital Accessibility Lawsuit Report](https://www.3playmedia.com/blog/key-takeaways-usablenets-ada-web-app-report/)
+
+### 2021
+
+- [2021 Website Accessibility Lawsuit Recap](https://adasoutheast.org/2021-website-accessibility-lawsuit-recap/)
 
 ### 2020
 

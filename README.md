@@ -1,6 +1,8 @@
 # Accessibility Knowledge Base
 
-An information resource to store information collected about Accessibility (A11y), WCAG, ARIA, and the European Accessibiity Act.
+An information resource to store information collected about Accessibility (A11y), WCAG, ARIA, and the European Accessibility Act.
+
+Start reading the [Accessibility Knowledge Base](A11y%20Knowledge%20Base.md).
 
 ![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-accessibility-kb/main/__resources__/images/preview.gif)
 
