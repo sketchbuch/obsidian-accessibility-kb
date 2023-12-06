@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28494f28f767964f",
+        "id": "9fcdccf210cc00e1",
         "type": "tabs",
         "children": [
           {
-            "id": "519d70e6b4e329df",
+            "id": "f02fc0b138463f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "A11y Knowledge Base.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": ".obsidian/core-plugins-migration.json",
+                "staged": false
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A11y Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A11y Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A11y Knowledge Base.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +164,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "519d70e6b4e329df",
+  "active": "f02fc0b138463f3a",
   "lastOpenFiles": [
+    "A11y Knowledge Base.md",
+    "WCAG/WCAG.md",
+    "README.md",
     "Misc/EAA.md",
     "Online Resources/Captions & Subtitles.md",
-    "A11y Knowledge Base.md",
     "Online Resources/AbilityNet Webinars.md",
     "HTML/Links (A11y).md",
     "Misc/ADA.md",
@@ -184,7 +180,6 @@
     "Misc/Resources (A11y).md",
     "Misc/Testing (A11y).md",
     "Technology/Devices.md",
-    "README.md",
     "Aria/ARIA.md",
     "Development/Unit Testing.md",
     "Technology",
@@ -198,7 +193,6 @@
     "Mac OS.md",
     "Online Resources/Websites.md",
     "Online Resources/Newsletters.md",
-    "Online Resources/Feeds.md",
     "Development",
     "Online Resources",
     "Aria/Roles",
